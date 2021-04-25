@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">A tech-passionate developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Python, MERN Stack, Docker** and **Cisco Networking**
-
+- 🔭 I’m currently working on [Secret Workd RPG Simulator](https://github.com/JxRibeiro/Secret-World-RPG)💻
 - 👨‍💻 All of my projects are available at [github.com/JxRibeiro](github.com/JxRibeiro)
-
-- 📫 You can reach me at joaomarcio.ribeiro@gmail.com
-
+- 📫 You can reach me at [![Gmail Badge](https://img.shields.io/badge/-joaomarcio.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaomarcio.ribeiro@gmail.com)](mailto:joaomarcio.ribeiro@gmail.com) 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-joao-m-ribeiro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-m-ribeiro/)](https://www.linkedin.com/in/joao-m-ribeiro/) [![Github Badge](https://img.shields.io/badge/-JxRibeiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JxRibeiro/)](https://www.github.com/JxRibeiro/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/JxRibeiro/JxRibeiro//)](https://github.com/JxRibeiro/JxRibeiro//)
 
 
 <h3 align="left">Languages and Tools:</h3>
