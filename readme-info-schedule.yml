@@ -10,13 +10,13 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: JxRibeiro/JxRibeiro@main
+      - uses: th3c0d3br34ker/github-readme-info@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "America/Sao_Paulo"
+          TIMEZONE: "Asia/Kolkata"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_DAILY_COMMIT: "True"
           SHOW_WEEKLY_COMMIT: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
+          SHOW_TOTAL_CONTRIBUTIONS: "True"
