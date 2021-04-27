@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 ### Github Related
 <!--START_SECTION:waka-->
+```text
+Python     1 hr 14 mins    ████████████████████████▒   97.77 % 
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
