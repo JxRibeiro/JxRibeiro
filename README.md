@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me at [![Gmail Badge](https://img.shields.io/badge/-joaomarcio.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaomarcio.ribeiro@gmail.com)](mailto:joaomarcio.ribeiro@gmail.com) 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
 
-### Github Related
+### Coding
 <!--START_SECTION:waka-->
 ```text
 Python     1 hr 14 mins    ████████████████████████▒   97.77 % 
