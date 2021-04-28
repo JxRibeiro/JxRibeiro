@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me at [![Gmail Badge](https://img.shields.io/badge/-joaomarcio.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaomarcio.ribeiro@gmail.com)](mailto:joaomarcio.ribeiro@gmail.com) 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
 
-### Coding
+### Coding Stats powered by [ReadmeInfo](https://github.com/th3c0d3br34ker/github-readme-info)
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 1862 Lines of Code ✍️**
