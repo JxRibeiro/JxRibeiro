@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
 
 ### Coding
-<!--START_SECTION:waka-->
-```text
-Python     1 hr 14 mins    ████████████████████████▒   97.77 % 
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-```
-<!--END_SECTION:waka-->
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 2316 Lines of Code ✍️**
