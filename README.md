@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 <!--END_SECTION:readme-info-->
 
 <!--START_SECTION:waka-->
+```text
+Python       7 hrs 27 mins   ████████████████████████▒   97.75 % 
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
