@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [github.com/JxRibeiro](github.com/JxRibeiro)
 - 📫 You can reach me at [![Gmail Badge](https://img.shields.io/badge/-joaomarcio.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaomarcio.ribeiro@gmail.com)](mailto:joaomarcio.ribeiro@gmail.com) 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJxRibeiro%2FJxRibeiro&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Coding Stats powered by [ReadmeInfo](https://github.com/th3c0d3br34ker/github-readme-info)
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
