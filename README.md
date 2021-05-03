@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-m-ribeiro/)](https://www.linkedin.com/in/joao-m-ribeiro/)
 
 ### Coding Stats powered by [ReadmeInfo](https://github.com/th3c0d3br34ker/github-readme-info)
+![Coding Gif](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 2676 Lines of Code ✍️**
