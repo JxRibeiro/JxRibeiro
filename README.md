@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Secret World RPG Simulator](https://github.com/JxRibeiro/Secret-World-RPG)💻
 - 👨‍💻 All of my projects are available at [github.com/JxRibeiro](github.com/JxRibeiro)
 - 📫 You can reach me at [![Gmail Badge](https://img.shields.io/badge/-joaomarcio.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaomarcio.ribeiro@gmail.com)](mailto:joaomarcio.ribeiro@gmail.com) 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joao-m-ribeiro/](https://www.linkedin.com/in/joao-m-ribeiro/)
+- 📄 Know about my experiences [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-m-ribeiro/)](https://www.linkedin.com/in/joao-m-ribeiro/)
 
 ### Coding Stats powered by [ReadmeInfo](https://github.com/th3c0d3br34ker/github-readme-info)
 <!--START_SECTION:readme-info-->
