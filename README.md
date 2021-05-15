@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 May, 2021 - 13 May, 2021
+Week: 07 May, 2021 - 14 May, 2021
 
-Python       3 hrs 48 mins   ███████████████▒░░░░░░░░░   60.98 % 
-JavaScript   50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-HTML         48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-CSS          24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Docker       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Python       3 hrs 13 mins   ███████████████▒░░░░░░░░░   61.83 % 
+HTML         47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+JavaScript   44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+CSS          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
