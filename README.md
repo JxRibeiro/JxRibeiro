@@ -78,11 +78,10 @@ Here are some ideas to get you started:
 ```text
 Week: 11 May, 2021 - 18 May, 2021
 
-Python       51 mins         ███████████░░░░░░░░░░░░░░   44.59 % 
-JavaScript   41 mins         █████████░░░░░░░░░░░░░░░░   35.93 % 
-HTML         13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python       1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   41.48 % 
+HTML         1 hr 14 mins    ████████▓░░░░░░░░░░░░░░░░   35.26 % 
+JavaScript   41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->
 
