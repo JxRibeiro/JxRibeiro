@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 | | | | |
 | --- | --- | --- | --- |
 |🌞 Morning                |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
-|🌆 Daytime                |6 commits           |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.5%|
-|🌃 Evening                |69 commits          |![](https://via.placeholder.com/252x22/000000/000000?text=+)![](https://via.placeholder.com/148x22/b8b8b8/b8b8b8?=text=+)|63.3%|
+|🌆 Daytime                |5 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.59%|
+|🌃 Evening                |70 commits          |![](https://via.placeholder.com/256x22/000000/000000?text=+)![](https://via.placeholder.com/144x22/b8b8b8/b8b8b8?=text=+)|64.22%|
 |🌙 Night                  |20 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.35%|
 | | | | |
 
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |10 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.17%|
-|Tuesday                  |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
+|Monday                   |11 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.09%|
+|Tuesday                  |11 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.09%|
 |Wednesday                |29 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.61%|
 |Thursday                 |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
 |Friday                   |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
