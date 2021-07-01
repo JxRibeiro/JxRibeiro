@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 | | | | |
 | --- | --- | --- | --- |
 |🌞 Morning                |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
-|🌆 Daytime                |5 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.59%|
-|🌃 Evening                |70 commits          |![](https://via.placeholder.com/256x22/000000/000000?text=+)![](https://via.placeholder.com/144x22/b8b8b8/b8b8b8?=text=+)|64.22%|
+|🌆 Daytime                |4 commits           |![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.67%|
+|🌃 Evening                |71 commits          |![](https://via.placeholder.com/260x22/000000/000000?text=+)![](https://via.placeholder.com/140x22/b8b8b8/b8b8b8?=text=+)|65.14%|
 |🌙 Night                  |20 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.35%|
 | | | | |
 
