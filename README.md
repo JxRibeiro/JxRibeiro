@@ -37,22 +37,22 @@ Here are some ideas to get you started:
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |13 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.93%|
+|🌞 Morning                |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
 |🌆 Daytime                |4 commits           |![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.67%|
-|🌃 Evening                |83 commits          |![](https://via.placeholder.com/304x22/000000/000000?text=+)![](https://via.placeholder.com/96x22/b8b8b8/b8b8b8?=text=+)|76.15%|
+|🌃 Evening                |84 commits          |![](https://via.placeholder.com/308x22/000000/000000?text=+)![](https://via.placeholder.com/92x22/b8b8b8/b8b8b8?=text=+)|77.06%|
 |🌙 Night                  |9 commits           |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.26%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Wednesdays** 
+📅 **I'm Most Productive on Fridays** 
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
+|Monday                   |13 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.93%|
 |Tuesday                  |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
-|Wednesday                |19 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.43%|
+|Wednesday                |18 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.51%|
 |Thursday                 |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
 |Friday                   |19 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.43%|
 |Saturday                 |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |15 repos|            ![](https://via.placeholder.com/332x22/000000/000000?text=+)![](https://via.placeholder.com/68x22/b8b8b8/b8b8b8?=text=+)|83.33%|
-|HTML                     |2 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.11%|
-|CSS                      |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|Python                   |16 repos|            ![](https://via.placeholder.com/336x22/000000/000000?text=+)![](https://via.placeholder.com/64x22/b8b8b8/b8b8b8?=text=+)|84.21%|
+|HTML                     |2 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.53%|
+|CSS                      |1 repos|             ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.26%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
