@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 | --- | --- | --- | --- |
 |🌞 Morning                |10 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.17%|
 |🌆 Daytime                |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.75%|
-|🌃 Evening                |90 commits          |![](https://via.placeholder.com/332x22/000000/000000?text=+)![](https://via.placeholder.com/68x22/b8b8b8/b8b8b8?=text=+)|82.57%|
-|🌙 Night                  |6 commits           |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.5%|
+|🌃 Evening                |91 commits          |![](https://via.placeholder.com/332x22/000000/000000?text=+)![](https://via.placeholder.com/68x22/b8b8b8/b8b8b8?=text=+)|83.49%|
+|🌙 Night                  |5 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.59%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 |Tuesday                  |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
 |Wednesday                |19 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.43%|
 |Thursday                 |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.76%|
-|Friday                   |18 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.51%|
+|Friday                   |19 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.43%|
 |Saturday                 |12 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.01%|
-|Sunday                   |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
+|Sunday                   |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.68%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
