@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Coding Gif](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 3307 Lines of Code ✍️**
+**From Hello World I have written 0 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
@@ -37,23 +37,23 @@ Here are some ideas to get you started:
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.75%|
+|🌞 Morning                |2 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|1.83%|
 |🌆 Daytime                |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.75%|
-|🌃 Evening                |103 commits         |![](https://via.placeholder.com/376x22/000000/000000?text=+)![](https://via.placeholder.com/24x22/b8b8b8/b8b8b8?=text=+)|94.5%|
+|🌃 Evening                |104 commits         |![](https://via.placeholder.com/380x22/000000/000000?text=+)![](https://via.placeholder.com/20x22/b8b8b8/b8b8b8?=text=+)|95.41%|
 |🌙 Night                  |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Wednesdays** 
+📅 **I'm Most Productive on Thursdays** 
 
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
 |Tuesday                  |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
-|Wednesday                |18 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.51%|
-|Thursday                 |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
+|Wednesday                |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
+|Thursday                 |18 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.51%|
 |Friday                   |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
 |Saturday                 |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.76%|
 |Sunday                   |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.84%|
