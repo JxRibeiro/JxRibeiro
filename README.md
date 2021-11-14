@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Coding Gif](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 <!--START_SECTION:readme-info-->
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 3307 Lines of Code ✍️**
+**From Hello World I have written 0 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Wednesdays** 
 
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |13 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.93%|
 |Tuesday                  |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.76%|
-|Wednesday                |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.68%|
+|Wednesday                |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
 |Thursday                 |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
 |Friday                   |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
-|Saturday                 |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.68%|
+|Saturday                 |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.76%|
 |Sunday                   |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.76%|
 | | | | |
 
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |16 repos|            ![](https://via.placeholder.com/336x22/000000/000000?text=+)![](https://via.placeholder.com/64x22/b8b8b8/b8b8b8?=text=+)|84.21%|
-|HTML                     |2 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.53%|
-|CSS                      |1 repos|             ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.26%|
+|Python                   |15 repos|            ![](https://via.placeholder.com/332x22/000000/000000?text=+)![](https://via.placeholder.com/68x22/b8b8b8/b8b8b8?=text=+)|83.33%|
+|HTML                     |2 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.11%|
+|CSS                      |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
