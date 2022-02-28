@@ -75,9 +75,11 @@ Here are some ideas to get you started:
 <!--END_SECTION:readme-info-->
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
